@@ -1,6 +1,6 @@
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/"> 
     <img src="https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=BASH">
   </a> 
