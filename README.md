@@ -8,12 +8,13 @@
   <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C">
   <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C++">
   <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java">
-  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> 
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript"> 
-  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js"> 
   <a href="https://python.org/"> 
     <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python">
   </a>
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> 
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript"> 
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js"> 
+  
 </p> 
 
 <p align="center"> 
