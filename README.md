@@ -1,3 +1,8 @@
+## Being broke and alone is better than being enslaved
+
+* [Pay attention](https://en.wikipedia.org/wiki/Social_engineering_(security)#Techniques_and_terms)
+* [Stephen Hassan's BITE Model](https://freedomofmind.com/cult-mind-control/bite-model/)
+
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
 
 <p align="center">
