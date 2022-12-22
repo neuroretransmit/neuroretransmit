@@ -3,9 +3,11 @@
 * [Pay attention](https://en.wikipedia.org/wiki/Social_engineering_(security)#Techniques_and_terms)
 * [Manipulation comes in the form of media and people](https://freedomofmind.com/cult-mind-control/bite-model/)
 
-> There is no such think as a demilitarized zone. Have a guerilla mind/friends. Don't be afraid to play dirty when they do.
+> There is no such thing as a demilitarized zone. Have a guerilla mind/friends. Don't be afraid to play dirty when they do.
 
 > Beware of "nerd-sniping" and culling from your oppressors. Kryptos K4 and Cicada 3301 are two such examples.
+
+[![Natural 20s](https://img.youtube.com/vi/TmyM2vq-CcM/0.jpg)](https://www.youtube.com/watch?v=TmyM2vq-CcM "Natural 20s")
 
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
 
