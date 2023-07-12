@@ -1,27 +1,3 @@
-# `About Me`
-
-1. Made commits to a password manager your org uses.
-2. On many lists, including your mom's.
-3. X-time abuser of EWS impersonation to get free lunches at Fortune 500s.
-4. Yes, your allocated VLAN was passive aggressively named that. 
-5. Math is just a programming language with worse syntax than APL. Embrace the *new-math*. 
-6. *I am the researchgate*
-7. K4 and Cicada have no solution, but it's fun to tell assholes it does.
-
-## This part is quite important
-
-> Conformity is death. Emotionally pitting group-think is the real weapon of mass destruction.
-> Don't let your attention be distracted. Don't let the original you be modified.
-
-* [Pay attention, especially to subtleties](https://en.wikipedia.org/wiki/Social_engineering_(security)#Techniques_and_terms)
-* [Manipulation comes in the form of media and people](https://freedomofmind.com/cult-mind-control/bite-model/)
-
-1. There is no such thing as a demilitarized zone. Have a guerilla mind/friends. Don't be afraid to play dirty when they do.
-2. Beware of "nerd-sniping" and culling from your oppressors.
-
-[![Natural 20s](https://img.youtube.com/vi/TmyM2vq-CcM/0.jpg)](https://www.youtube.com/watch?v=TmyM2vq-CcM "Natural 20s")
-
-
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
 
 <p align="center">
