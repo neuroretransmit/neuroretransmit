@@ -7,20 +7,20 @@
   <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux"> 
   <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C">
   <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C++">
-  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java">
+  <img src="https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=Go">
   <a href="https://python.org/"> 
     <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python">
   </a>
-  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> 
+  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java">
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript"> 
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript"> 
   <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js"> 
-  
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> 
 </p> 
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=Shell"> 
   <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mySQL"> 
-  <img src="https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=Terminal"> 
 </p>
 <p align="center">𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</p>
   <div align="center">
