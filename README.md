@@ -33,6 +33,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=neuroretransmit&show_icons=true&count_private=true&theme=chartreuse-dark"/>
   </div>
       
-  <img align="left" style="float:right; margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimisticninja&theme=radical&layout=compact">
+  <img align="left" style="float:right; margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuroretransmit&theme=radical&layout=compact">
 </p>
 <br><br><br>
