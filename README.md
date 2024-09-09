@@ -1,12 +1,8 @@
-<p align="center">Just cruising<br/>
-And my crew put our dues in while y'all snoozing<br/>
-Just cruising<br/>
-Hard drive live with a fresh solution<br/>
-Just cruising<br/>
-And my crew put our dues in while y'all snoozing<br/>
-Just cruising<br/>
-Driving that digital distribution</p>
-<br/>
+<p align="center">
+  Do something excellent.<br/>
+  It isn't about the money.<br/>
+  It isn't about status.<br/>
+  It's about the journey.<br/>
 <p align="center">:wrench: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 :wrench:</p>
 
 <p align="center">
@@ -34,7 +30,7 @@ Driving that digital distribution</p>
 <p align="center">𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠</p>
   <div align="center">
     <kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd><kbd>
-      <img src="https://github-readme-stats.vercel.app/api?username=optimisticninja&show_icons=true&count_private=true&theme=chartreuse-dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=neuroretransmit&show_icons=true&count_private=true&theme=chartreuse-dark"/>
   </div>
       
   <img align="left" style="float:right; margin:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimisticninja&theme=radical&layout=compact">
