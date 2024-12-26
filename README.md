@@ -13,10 +13,10 @@
   but you can do absolute black magic with unicode. It's friggen cool to use as an exploit
   mechanism, but I don't want it running on my everyday system.
 
-  # PS: Hanging on to magic string that does this. Definitely don't email me your PGP key for
-  # requests for it. It's really neat and I wish I could, but I fear this one. It will be up
-  # as soon as *recompiles <strong>everything from source*</strong>. Probably released
-  simultaneously with write-up when I get around to debugging this.
+  <strong>PS: Hanging on to magic string that does this. Definitely don't email me your PGP key for
+  requests for it. It's really neat and I wish I could, but I fear this one. It will be up
+  as soon as *recompiles <strong>everything from source*</strong>. Probably released
+  simultaneously with write-up when I get around to debugging this.</strong>
 
 Exactly how low-level it is:
 
